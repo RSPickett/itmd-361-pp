@@ -8,3 +8,28 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* ===== BASE STYLES ===== */
+html {
+  font-size: 0.8375em; /* 14px */
+  line-height: 1.214em; /* 17px */
+  padding: 0.7647em 1.257em;
+
+}
+
+h1 {
+  font-size: 1.571em; /* 21.875px (22px)*/
+  line-height: 1.55em; /* 34px @ 22px em*/
+}
+
+h2 {
+  font-size: 1.25em; /* 17.5px */
+  line-height: 1.943em; /* 34px @ 17.4px em */
+}
+
+p,
+ul {
+  padding-bottom: 1.214em; /* 17px */
+}
+
+ul:last-of-type {
+  padding-bottom: 0;
+}
