@@ -25,10 +25,9 @@ Write the output of `git remote -v` from your copy of the forked repository here
   origin  git@github.com:RSPickett/Proj3Group.git (push)
 
 
-  CHIP YOU LEFT OFF HERE!!!!
-
 4. Finally, each group member should add to the `README.md` file his/her name, and a brief few sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to pull from the remote repo (`git pull group master`) to get any other group members’ names and strengths. Add and commit your own work, and push to your own repository (`git push origin master`).
 
 5. From within your copy of the repository on GitHub, open up a pull request. Each group member should review the request before it is merged, and then pull from the group repository to have a complete, up-to-date `README.md` file.
 
 Write the URL of your pull request here:
+  https://github.com/RSPIckett1/Proj3Group/pull/1
